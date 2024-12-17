@@ -1,2 +1,2 @@
-# RPi-API
-Vito API in python
+# LabNotes
+An attempt to integrate my notes to the rest of the world...
